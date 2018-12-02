@@ -1,0 +1,10 @@
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\bin\Debug\Runner.exe.config
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\bin\Debug\Runner.exe
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\bin\Debug\Runner.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\bin\Debug\BoolVectorLibrary.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\bin\Debug\BoolVectorLibrary.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\obj\Debug\Runner.csprojAssemblyReference.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\obj\Debug\Runner.csproj.CopyComplete
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\obj\Debug\Runner.exe
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\Runner\obj\Debug\Runner.pdb

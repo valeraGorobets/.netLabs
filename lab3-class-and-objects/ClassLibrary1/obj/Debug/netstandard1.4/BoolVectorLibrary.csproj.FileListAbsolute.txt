@@ -1,0 +1,7 @@
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\ClassLibrary1\bin\Debug\netstandard1.4\BoolVectorLibrary.deps.json
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\ClassLibrary1\bin\Debug\netstandard1.4\BoolVectorLibrary.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\ClassLibrary1\bin\Debug\netstandard1.4\BoolVectorLibrary.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\ClassLibrary1\obj\Debug\netstandard1.4\BoolVectorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\ClassLibrary1\obj\Debug\netstandard1.4\BoolVectorLibrary.AssemblyInfo.cs
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\ClassLibrary1\obj\Debug\netstandard1.4\BoolVectorLibrary.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\ClassLibrary1\obj\Debug\netstandard1.4\BoolVectorLibrary.pdb
