@@ -1,0 +1,16 @@
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\TestingModule.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\TestingModule.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\BoolVectorLibrary.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\BoolVectorLibrary.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\obj\Debug\TestingModule.csprojAssemblyReference.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\obj\Debug\TestingModule.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\obj\Debug\TestingModule.csproj.CopyComplete
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\obj\Debug\TestingModule.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab3-class-and-objects\TestingModule\obj\Debug\TestingModule.pdb
