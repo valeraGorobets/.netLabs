@@ -1,0 +1,7 @@
+C:\Users\Valera\Documents\Git\.netLabs\lab6-inner-classes\lab6-inner-classes\bin\Debug\netstandard1.4\lab6-inner-classes.deps.json
+C:\Users\Valera\Documents\Git\.netLabs\lab6-inner-classes\lab6-inner-classes\bin\Debug\netstandard1.4\lab6-inner-classes.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab6-inner-classes\lab6-inner-classes\bin\Debug\netstandard1.4\lab6-inner-classes.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab6-inner-classes\lab6-inner-classes\obj\Debug\netstandard1.4\lab6-inner-classes.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab6-inner-classes\lab6-inner-classes\obj\Debug\netstandard1.4\lab6-inner-classes.AssemblyInfo.cs
+C:\Users\Valera\Documents\Git\.netLabs\lab6-inner-classes\lab6-inner-classes\obj\Debug\netstandard1.4\lab6-inner-classes.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab6-inner-classes\lab6-inner-classes\obj\Debug\netstandard1.4\lab6-inner-classes.pdb
