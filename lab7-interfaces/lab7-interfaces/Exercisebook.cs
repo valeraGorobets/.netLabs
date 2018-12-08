@@ -3,14 +3,15 @@ using System.Collections.Generic;
 
 namespace lab7_interfaces
 {
-    public class Exercisebook<String>: Notebook<String>
+    public class Exercisebook: Notebook<String>
     {
+        public const string ExeptionMessage = "Same text already exists in the Exercisebook!";
         public string subject;
         public List<String> uniqueParagraphs = new List<String>();
 
         public Exercisebook(int pageAmount, string subject)
         {
-            this.PageAmount = pageAmount;
+            this.pageAmount = pageAmount;
             this.subject = subject;
         }
 
@@ -20,11 +21,11 @@ namespace lab7_interfaces
                 uniqueParagraphs.Add(text);
             } else
             {
-                throw new Exception("Same text already exists in the Exercisebook!");
+                throw new ArgumentException(ExeptionMessage);
             }
         }
 
-        private bool IsPlagiarismPassed(String text)
+        public bool IsPlagiarismPassed(String text)
         {
             if (this.uniqueParagraphs.Contains(text))
             {

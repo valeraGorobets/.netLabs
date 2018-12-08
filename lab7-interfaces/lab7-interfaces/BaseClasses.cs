@@ -12,15 +12,14 @@ namespace lab7_interfaces
     public abstract class Notebook<T> : IPaper<T>
     {
         private readonly int IgnitionTemperature = 233;
-        private readonly int pageAmount;
-
-        public int PageAmount { get => PageAmount; set => PageAmount = value; }
+        public int pageAmount;
 
         public void Burn(int temperature)
         {
             if ( temperature >= this.IgnitionTemperature)
             {
                 Console.WriteLine("Fire! Notebook is buring!");
+                this.pageAmount = 0;
             }
         }
 

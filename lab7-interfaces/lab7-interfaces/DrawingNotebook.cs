@@ -3,12 +3,13 @@ using System.Collections.Generic;
 
 namespace lab7_interfaces
 {
-    public class DrawingNotebook<Image> : Notebook<Image>
+    public class DrawingNotebook : Notebook<Image>
     {
         public List<Image> images = new List<Image>();
+
         public DrawingNotebook(int pageAmount)
         {
-            this.PageAmount = pageAmount;
+            this.pageAmount = pageAmount;
         }
 
         public override void WriteOnMe(Image image)
