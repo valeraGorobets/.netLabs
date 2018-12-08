@@ -1,0 +1,7 @@
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\lab7-interfaces\bin\Debug\netstandard1.4\lab7-interfaces.deps.json
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\lab7-interfaces\bin\Debug\netstandard1.4\lab7-interfaces.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\lab7-interfaces\bin\Debug\netstandard1.4\lab7-interfaces.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\lab7-interfaces\obj\Debug\netstandard1.4\lab7-interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\lab7-interfaces\obj\Debug\netstandard1.4\lab7-interfaces.AssemblyInfo.cs
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\lab7-interfaces\obj\Debug\netstandard1.4\lab7-interfaces.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\lab7-interfaces\obj\Debug\netstandard1.4\lab7-interfaces.pdb
