@@ -1,0 +1,16 @@
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\TestModule.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\TestModule.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\lab7-interfaces.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\lab7-interfaces.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\obj\Debug\TestModule.csprojAssemblyReference.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\obj\Debug\TestModule.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\obj\Debug\TestModule.csproj.CopyComplete
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\obj\Debug\TestModule.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab7-interfaces\TestModule\obj\Debug\TestModule.pdb
