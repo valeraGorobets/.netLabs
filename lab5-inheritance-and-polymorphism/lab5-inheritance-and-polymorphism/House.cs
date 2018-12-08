@@ -13,13 +13,13 @@ namespace lab5_inheritance_and_polymorphism
 
         }
 
-        public void AddWindow(int height, int width, int floor, string material)
+        public void AddWindow(double height, double width, int floor, string material)
         {
             Dimentions dimentions = new Dimentions(height, width);
             this.windowsList.Add(new Window(dimentions, floor, material));
         }
 
-        public void AddDoor(int height, int width, int floor, string color)
+        public void AddDoor(double height, double width, int floor, string color)
         {
             Dimentions dimentions = new Dimentions(height, width);
             this.doorsList.Add(new Door(dimentions, floor, color));

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5-inheritance-and-polymorphism", "lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism.csproj", "{7A3EE122-5315-4965-B2E6-203C315FCAEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab5-inheritance-and-polymorphism", "lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism.csproj", "{7A3EE122-5315-4965-B2E6-203C315FCAEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestModule", "TestModule\TestModule.csproj", "{5100BDB6-D86D-4E66-8653-825BC7EE9967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7A3EE122-5315-4965-B2E6-203C315FCAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A3EE122-5315-4965-B2E6-203C315FCAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A3EE122-5315-4965-B2E6-203C315FCAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5100BDB6-D86D-4E66-8653-825BC7EE9967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5100BDB6-D86D-4E66-8653-825BC7EE9967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5100BDB6-D86D-4E66-8653-825BC7EE9967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5100BDB6-D86D-4E66-8653-825BC7EE9967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

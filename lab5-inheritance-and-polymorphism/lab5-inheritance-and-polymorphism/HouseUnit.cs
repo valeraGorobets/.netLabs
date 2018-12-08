@@ -4,10 +4,10 @@ namespace lab5_inheritance_and_polymorphism
 {
     public class Dimentions
     {
-        public int height;
-        public int width;
+        public double height;
+        public double width;
 
-        public Dimentions(int height, int width)
+        public Dimentions(double height, double width)
         {
             this.height = height;
             this.width = width;

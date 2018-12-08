@@ -5,7 +5,7 @@ namespace lab5_inheritance_and_polymorphism
     public class Window: HouseUnit
     {
         public string material;
-        private bool isWindowLocked = false;
+        public bool isWindowLocked = false;
 
         public Window(
             Dimentions dimentions,

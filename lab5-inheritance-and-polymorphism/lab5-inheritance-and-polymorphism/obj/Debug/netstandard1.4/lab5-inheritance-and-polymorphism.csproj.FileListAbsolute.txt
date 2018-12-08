@@ -1,0 +1,7 @@
+C:\Users\Valera\Documents\Git\.netLabs\lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism\bin\Debug\netstandard1.4\lab5-inheritance-and-polymorphism.deps.json
+C:\Users\Valera\Documents\Git\.netLabs\lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism\bin\Debug\netstandard1.4\lab5-inheritance-and-polymorphism.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism\bin\Debug\netstandard1.4\lab5-inheritance-and-polymorphism.pdb
+C:\Users\Valera\Documents\Git\.netLabs\lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism\obj\Debug\netstandard1.4\lab5-inheritance-and-polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Documents\Git\.netLabs\lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism\obj\Debug\netstandard1.4\lab5-inheritance-and-polymorphism.AssemblyInfo.cs
+C:\Users\Valera\Documents\Git\.netLabs\lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism\obj\Debug\netstandard1.4\lab5-inheritance-and-polymorphism.dll
+C:\Users\Valera\Documents\Git\.netLabs\lab5-inheritance-and-polymorphism\lab5-inheritance-and-polymorphism\obj\Debug\netstandard1.4\lab5-inheritance-and-polymorphism.pdb
